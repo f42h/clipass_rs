@@ -2,6 +2,9 @@
 name = "clipass_rs"
 version = "0.1.0"
 edition = "2024"
+description = "Library for masked CLI input reading"
+license = "MIT"
+repository = "https://github.com/f42h/clipass_rs"
 
 [dependencies]
 crossterm = "0.29.0"
