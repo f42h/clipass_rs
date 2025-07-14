@@ -74,3 +74,8 @@ fn main() {
 *   right: "405f42005704da932ea8a4ad1f1e8c26e751af0316caa1e7e4bef4af4e2d93fe"
 */
 ```
+
+#### Full Examples can be found [here](https://github.com/f42h/clipass_rs/tree/master/examples)
+
+## License
+This project is published under the [MIT](https://github.com/f42h/clipass_rs/blob/master/LICENSE) license.
