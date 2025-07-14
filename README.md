@@ -9,6 +9,11 @@ directly be accessed or hashed in (currently) sha256 and md5.
 ```
 
 ### Usage
+- Add clipass_rs to your Cargo.toml
+```
+cargo add clipass_rs
+```
+
 - Import the crate
 ```rust
 use clipass_rs::CliPass;
